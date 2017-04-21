@@ -1,5 +1,7 @@
 # JewelleryMarket
 
+_Collaboration : [GousosGas](https://github.com/GousosGas) && [eviliana](https://github.com/eviliana)_
+
 This is a project we developed during our MSc course “Multi-Agent Systems” using JADE framework in NetBeans IDE.
 
 The project simulates a market where agents can buy and sell jewelries. It is based in the classic book-trading example in JADE and provides features like a GUI environment for each agent using Swing with drop down lists (with predifined items), auction creation with specific duration (provided by user), multiple buyer/seller agents creation within the main container etc.
